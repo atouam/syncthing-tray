@@ -1,0 +1,1 @@
+"""Syncthing tray app package."""
